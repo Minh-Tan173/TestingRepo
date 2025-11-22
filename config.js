@@ -1,0 +1,41 @@
+// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+var config = {
+    texts: [
+        "Bạn của tôi",
+        "Hôm nay là ngày sinh nhật của bạn",
+        "Tôi chúc bạn làm việc gì cũng đều thuận lợi",
+        "Sức khỏe của bạn sẽ mãi mãi tốt",
+        "Công việc sẽ tăng lương đều đều",
+        "Tiền vào đến túi bớt bớt chui ra",
+        "Chúc bạn luôn luôn hạnh phúc",
+        "Luôn luôn gặp may mắn",
+        "Luôn luôn xinh đẹp, tự tin",
+        "Sớm ngày thoát ế như bao lần bốc phét",
+        "Chúc bạn sẽ có 1 tuổi mới ngập tràn những niềm vui chưa biết!",
+        "Schön, dass du geboren wurdest! <br> Chúc bạn sinh nhật vui vẻ",
+    ],
+    imgs: {
+        "Bạn của tôi": "./imgs/image_1.png",
+        "Hôm nay là ngày sinh nhật của bạn": "./imgs/image_2.png",
+        "Tôi chúc bạn làm việc gì cũng đều thuận lợi": "./imgs/image_3.png",
+        "Sức khỏe của bạn sẽ mãi mãi tốt": "./imgs/image_4.png",
+        "Công việc sẽ tăng lương đều đều": "./imgs/image_5.png",
+        "Tiền vào đến túi bớt bớt chui ra": "./imgs/image_6.png",
+        "Chúc bạn luôn luôn hạnh phúc": "./imgs/image_7.png",
+        "Luôn luôn gặp may mắn": "./imgs/image_8.png",
+        "Luôn luôn xinh đẹp, tự tin": "./imgs/image_9.png",
+        "Sớm ngày thoát ế như bao lần bốc phét": "./imgs/image_10.png",
+        "Chúc bạn sẽ có 1 tuổi mới ngập tràn những niềm vui chưa biết!": "./imgs/image_11.png",
+        "Schön, dass du geboren wurdest! <br> Chúc bạn sinh nhật vui vẻ": "./imgs/image_12.png",
+    },
+    desc: {
+        turn_on: "Hơi tối, bật đèn lên đi",
+        play: "Có lẽ cần chút nhạc",
+        bannar_coming: "Bắt đầu được rồi đó",
+        balloons_flying: "Cơ mà vẫn thiếu thiếu gì đó nhỉ",
+        cake_fadein: "Bánh kem nè",
+        light_candle: "Thắp nến đi bạn",
+        wish_message: "Chúc mừng sinh nhật",
+        story: "Gửi đến người bạn Oanh của tôi",
+    }
+};
